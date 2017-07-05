@@ -1,0 +1,10 @@
+/* body bg color red added for view encapsulation demo*/
+body {
+    background-color: red;
+}
+
+/* Wrapper Styles added*/
+#login {
+    width: 600px;
+    margin: 100px auto;
+}
